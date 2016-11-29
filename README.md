@@ -85,7 +85,3 @@ defineClass("ViewController", { // 要修复的类
 	[“Hotpatch”潜在的安全风险](http://www.2cto.com/Article/201606/519426.html)
 # demo
 [demo地址](https://github.com/beforeold/JSPatch_Demo)
-
-#### 邀请你加入我的微信专题讨论群
-![](http://upload-images.jianshu.io/upload_images/73339-a8d2c68c658440be.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
